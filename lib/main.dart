@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Image(
-              image: AssetImage('barcodes/ffff6A.jpg'),
+              image: AssetImage('barcodes/ffff6A.png'),
             ),
             Text(
               '$_counter',
